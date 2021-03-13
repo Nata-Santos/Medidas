@@ -19,8 +19,8 @@ namespace Medidas
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("---Equivalência das medidas---");
             Console.ResetColor();
-            Console.WriteLine($"{metros:N2} metros");
             Console.WriteLine($"{centimetros} cm");
+            Console.WriteLine($"{metros:N2} metros");
             Console.WriteLine($"{quilometros:N3} km");
 
             
